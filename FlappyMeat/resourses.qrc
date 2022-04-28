@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/pipes">
+        <file>graphics/blood.png</file>
+        <file>graphics/bird.png</file>
+        <file>graphics/pipe_d.png</file>
+        <file>graphics/pipe_up.png</file>
+        <file>graphics/presset.jpg</file>
+        <file>graphics/Score board.jpg</file>
+        <file>graphics/wing.png</file>
+        <file>graphics/FlappyMeat.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>hightscore.txt</file>
+    </qresource>
+</RCC>
