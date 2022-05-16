@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>hightscore.txt</file>
+        <file>graphics/smoke.png</file>
+        <file>graphics/Scoreboard.png</file>
+        <file>graphics/bird/bird.png</file>
+        <file>graphics/pipes/pipe_d.png</file>
+        <file>graphics/pipes/pipe_up.png</file>
+        <file>graphics/presset.jpg</file>
+        <file>graphics/FlappyMeat.png</file>
+        <file>graphics/Death.png</file>
+        <file>graphics/Settings.png</file>
+        <file>graphics/bird/bird_red.png</file>
+        <file>graphics/bird/bird_ukr.png</file>
+    </qresource>
+</RCC>
