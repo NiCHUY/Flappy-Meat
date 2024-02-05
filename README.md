@@ -1,7 +1,11 @@
 # Flappy-Meat
-Flappy Meat <br>
-Description:<br>
-Flappy Meat is a non-commercial game written in C++/Qt. The active development phase ended in May 2022.<br>
-Project abandoned.<br>
-Work by:<br>
--Roman Nichiporuk ([NiCHUY](https://github.com/NiCHUY)) <br>
+___
+### Description
+Flappy Meat is a non-commercial game written in C++/Qt. The active development phase ended in May 2022.
+___
+### Status
+Project abandoned.
+___
+### Work by
+Roman Nichiporuk ([NiCHUY](https://github.com/NiCHUY)) <br>
+___
